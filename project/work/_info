@@ -1,0 +1,103 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/20.1
+vcache_tb
+!s110 1768284495
+!i10b 1
+!s100 ]MYoSkP05OeF6zfNT1R:`1
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IQXolF:ML>@`<cH9Zm4l=P0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dD:/project
+w1767123350
+8D:/project/cache_tb.v
+FD:/project/cache_tb.v
+!i122 15
+Z3 L0 1 25
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1768284494.000000
+!s107 D:/project/cache_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/project/cache_tb.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vdirect_mapped_cache
+Z8 !s110 1768284493
+!i10b 1
+!s100 X43mEz3?2=NojF=N]2h3W1
+R0
+Ih48g8cJ77nFhFMBY7ZoTd1
+R1
+R2
+w1767123167
+8D:/project/direct_mapped_cache.v
+FD:/project/direct_mapped_cache.v
+!i122 12
+L0 1 26
+R4
+r1
+!s85 0
+31
+!s108 1768284492.000000
+!s107 D:/project/direct_mapped_cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/project/direct_mapped_cache.v|
+!i113 1
+R6
+R7
+vfully_associative_cache
+R8
+!i10b 1
+!s100 m]PV@LgZQfKXgFF8R:UTo3
+R0
+I7RH3mGmLo:IUnEHIeSlbm3
+R1
+R2
+w1767123252
+8D:/project/fully_associative_cache.v
+FD:/project/fully_associative_cache.v
+!i122 13
+R3
+R4
+r1
+!s85 0
+31
+!s108 1768284493.000000
+!s107 D:/project/fully_associative_cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/project/fully_associative_cache.v|
+!i113 1
+R6
+R7
+vset_associative_cache
+!s110 1768284494
+!i10b 1
+!s100 NhE?2Pzb>>iNR]^JW5a;M3
+R0
+IHP:eYY@A6MdKa]jSTNX1M0
+R1
+R2
+w1767123314
+8D:/project/set_associative_cache.v
+FD:/project/set_associative_cache.v
+!i122 14
+L0 1 31
+R4
+r1
+!s85 0
+31
+R5
+!s107 D:/project/set_associative_cache.v|
+!s90 -reportprogress|300|-work|work|-stats=none|D:/project/set_associative_cache.v|
+!i113 1
+R6
+R7

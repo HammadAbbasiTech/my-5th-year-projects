@@ -1,0 +1,29 @@
+D:/project/cache_tb.v {1 {vlog -work work -stats=none D:/project/cache_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module cache_tb
+
+Top level modules:
+	cache_tb
+
+} {} {}} D:/project/set_associative_cache.v {1 {vlog -work work -stats=none D:/project/set_associative_cache.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module set_associative_cache
+
+Top level modules:
+	set_associative_cache
+
+} {} {}} D:/project/fully_associative_cache.v {1 {vlog -work work -stats=none D:/project/fully_associative_cache.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module fully_associative_cache
+
+Top level modules:
+	fully_associative_cache
+
+} {} {}} D:/project/direct_mapped_cache.v {1 {vlog -work work -stats=none D:/project/direct_mapped_cache.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module direct_mapped_cache
+
+Top level modules:
+	direct_mapped_cache
+
+} {} {}}
